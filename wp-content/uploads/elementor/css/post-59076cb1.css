@@ -1,0 +1,74 @@
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list ul.custom-list-group {
+    grid-template-columns: repeat(1, 1fr);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .custom-list-group li .flex-wrap {
+    padding: 12px 15px 12px 15px;
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .flex-wrap:hover {
+    background-color: var(--e-global-color-primary);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .list-text .bdt-list-title {
+    color: var(--e-global-color-accent);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .list-text .bdt-list-title {
+    font-family: "Rubik", roboto;
+    font-size: 15px;
+    font-weight: 500;
+}
+.elementor-5907
+    .elementor-element.elementor-element-8440062
+    .bdt-fancy-list
+    .custom-list-group
+    .bdt-list-wrap:hover
+    .list-text
+    .bdt-list-title {
+    color: var(--e-global-color-secondary);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .list-icon {
+    color: var(--e-global-color-secondary);
+    border-radius: 2px 2px 2px 2px;
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .list-icon svg {
+    fill: var(--e-global-color-secondary);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .list-icon {
+    background: var(--e-global-color-4507cf7);
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list .custom-list-group .list-icon {
+    padding: 12px 12px 12px 12px;
+}
+.elementor-5907
+    .elementor-element.elementor-element-8440062
+    .bdt-fancy-list
+    .custom-list-group
+    .bdt-list-wrap:hover
+    .list-icon {
+    color: #de161f !important;
+    background-color: var(--e-global-color-secondary);
+}
+.elementor-5907
+    .elementor-element.elementor-element-8440062
+    .bdt-fancy-list
+    .custom-list-group
+    .bdt-list-wrap:hover
+    .list-icon
+    svg {
+    fill: #de161f !important;
+}
+.elementor-5907 .elementor-element.elementor-element-8440062 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+@media (max-width: 1024px) {
+    .elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list ul.custom-list-group {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media (max-width: 767px) {
+    .elementor-5907 .elementor-element.elementor-element-8440062 .bdt-fancy-list ul.custom-list-group {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
